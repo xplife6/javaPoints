@@ -23,6 +23,7 @@ public class test {
         System.out.println("asda");
         System.out.println("点三次提交");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 
 
