@@ -20,6 +20,7 @@ public class test {
 //        Object
 //        Integer integer = new Integer(3);
 //        LocalDate
+        System.out.println("asda");
     }
 
 
